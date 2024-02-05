@@ -16,15 +16,19 @@ function App() {
   const nameList = [
     {
       first: "Mikey",
+      last: "Jones",
     },
     {
       first: "Leo",
+      last: "Jones",
     },
     {
       first: "Don",
+      last: "Jones",
     },
     {
       first: "Ralph",
+      last: "Jones",
     },
   ];
   return (
